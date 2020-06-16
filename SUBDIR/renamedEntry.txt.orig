@@ -1,0 +1,7 @@
+is this untracked?
+<<<<<<< HEAD
+It's tracked, and this is the secondBranch
+Here's another line in secondBranch
+=======
+It's tracked, and take thirdBranch it will show the way!
+>>>>>>> thirdBranch

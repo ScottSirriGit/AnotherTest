@@ -1,2 +1,3 @@
 is this untracked?
 It's tracked, and this is the secondBranch
+Here's another line in secondBranch

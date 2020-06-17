@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Master is moving ahead here, leaving secondBranch behind
 
 I miss secondBranch
+=======
+Oh yeah? Well this is secondBranch going off on my own
+>>>>>>> second initial

@@ -1,9 +1,0 @@
-Second altered text file
-I'm adding lots of text
-So that the auto-merge is useless
-And doesn't know what to do
-
-Chose left then right, manual resolution isn't so manual anymore
-
-What brave new world
-And wonderful things in it

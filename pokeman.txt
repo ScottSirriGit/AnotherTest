@@ -1,7 +1,12 @@
-<<<<<<< HEAD
+Master:
 Master is moving ahead here, leaving secondBranch behind
 
 I miss secondBranch
-=======
+
+============================================================
+
+secondBranch:
 Oh yeah? Well this is secondBranch going off on my own
->>>>>>> second initial
+
+Maybe it was a mistake leaving master...
+

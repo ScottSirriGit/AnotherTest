@@ -1,6 +1,6 @@
 Master:
 Master is moving ahead here, leaving secondBranch behind
-
+I'm now writing using vi, this is a pretty cool editor once you get to learn it.
 I miss secondBranch
 
 ============================================================
